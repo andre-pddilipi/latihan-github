@@ -1,2 +1,2 @@
 Latihan GitHub
-cek commit
+Latihan 2
